@@ -8,11 +8,15 @@
     "dev": "turbo run dev",
     "build": "turbo run build",
     "clean": "turbo run clean && rm -rf node_modules",
-    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\" --ignore-path .gitignore"
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\" --ignore-path .gitignore",
+    "update:dedupe": "yarn-deduplicate && yarn",
+    "update:latest": "yarn upgrade-interactive --latest"
   },
   "devDependencies": {
-    "prettier": "^2.7.1",
-    "turbo": "latest"
+    "@expo/cli": "^0.6.2",
+    "prettier": "^2.8.7",
+    "turbo": "1.8.6",
+    "yarn-deduplicate": "^6.0.1"
   },
   "packageManager": "yarn@1.22.17"
 }

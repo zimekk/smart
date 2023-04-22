@@ -11,6 +11,7 @@
     "dev": "yarn start"
   },
   "dependencies": {
+    "@dev/hello": "*",
     "expo": "^48.0.9",
     "expo-status-bar": "~1.4.4",
     "react": "18.2",
@@ -23,6 +24,7 @@
     "@babel/core": "^7.21.3",
     "@types/react": "^18.0.30",
     "@types/react-native": "^0.71.5",
+    "babel-plugin-transform-inline-environment-variables": "^0.4.4",
     "typescript": "^4.9.4"
   },
   "private": true

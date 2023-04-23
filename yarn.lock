@@ -2422,7 +2422,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@^0.69.20", "@types/react-native@^0.69.9":
+"@types/react-native@^0.69.20":
   version "0.69.20"
   resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.69.20.tgz#68d37af21a293af79ae3e42013c191358d494a70"
   integrity sha512-zIAQb4zBecmJCpmf+FCnZK8IHoRZyDxC/BetiZrJHD4gpiCyhkA68CL25v0Qmq2KRgJWf1MFbRrbtnOSTJVAoA==
@@ -4157,7 +4157,7 @@ expo-status-bar@~1.4.4:
   resolved "https://registry.yarnpkg.com/expo-status-bar/-/expo-status-bar-1.4.4.tgz#6874ccfda5a270d66f123a9f220735a76692d114"
   integrity sha512-5DV0hIEWgatSC3UgQuAZBoQeaS9CqeWRZ3vzBR9R/+IUD87Adbi4FGhU10nymRqFXOizGsureButGZIXPs7zEA==
 
-expo@^46.0.21:
+expo@~46.0.21:
   version "46.0.21"
   resolved "https://registry.yarnpkg.com/expo/-/expo-46.0.21.tgz#83108a8f59c1773fc2bdc3684efcaa5a812a4990"
   integrity sha512-leTI/GZXDN78xIThqimdK3Bk6uQ5dVkuWr+C0U/K0Ng5qDojQhJGtkM2lSS595KVTa3uYP6m0149MBg6Fp3fpA==
@@ -6799,10 +6799,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^2.8.7:
-  version "2.8.7"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.7.tgz#bb79fc8729308549d28fe3a98fce73d2c0656450"
-  integrity sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==
+prettier@^2.8.8:
+  version "2.8.8"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.8.8.tgz#e8c5d7e98a4305ffe3de2e1fc4aca1a71c28b1da"
+  integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
 
 pretty-bytes@5.6.0:
   version "5.6.0"
@@ -7080,7 +7080,7 @@ react@18.0.0:
   dependencies:
     loose-envify "^1.1.0"
 
-react@18.2:
+react@18.2.0:
   version "18.2.0"
   resolved "https://registry.yarnpkg.com/react/-/react-18.2.0.tgz#555bd98592883255fa00de14f1151a917b5d77d5"
   integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
